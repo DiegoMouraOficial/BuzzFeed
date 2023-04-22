@@ -1,0 +1,50 @@
+{
+  "title":"Escolha uma das opções e veja a resposta",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual é animal você escolhe?",
+      "options":[
+        {"id": 1, "name":"Gato", "alias":"A"},
+        {"id": 2, "name":"Cachorro", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual passatempo você escolhe ?",
+      "options":[
+        {"id": 1, "name":"Ler", "alias":"A"},
+        {"id": 2, "name":"Maratonar séries", "alias":"B"}
+
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual tipo de música você escolhe ?",
+      "options":[
+        {"id": 1, "name":"Pop", "alias":"A"},
+        {"id": 2, "name":"Rock", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual lugar você escolheira para viajar ?",
+      "options":[
+        {"id": 1, "name":"Praia", "alias":"A"},
+        {"id": 2, "name":"Montanha", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual tipo de comida você escolhe ?",
+      "options":[
+        {"id": 1, "name":"Pizza", "alias":"A"},
+        {"id": 2, "name":"Hambúrguer", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Será que você é um amante de cachorros, adora ler, ouvir música pop e relaxar na praia enquanto come pizza ?.",
+    "B": "Será que você é um amante de gatos, gosta de assistir TV, ouvir rock, ir para a montanha e devorar hambúrgueres deliciosos."
+  }
+}
